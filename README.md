@@ -6,6 +6,7 @@
 
 A simple guess my number game using Javascript.
 You have to guess a number between 1 to 20. If your predicted number is equal to secret number, you will win. You have 20 chances to guess the number correct.
+It is a project introduced by <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>.
 
 Technologies:
 
